@@ -1,6 +1,10 @@
 # Genni Demo — Generative UI with AI SDK v6
 
+[![QR code — scan to fork](https://api.qrserver.com/v1/create-qr-code/?size=200x200&data=https://github.com/CodesManiac/genni-demo)](https://github.com/CodesManiac/genni-demo)
+
 A demo application showcasing **tool-driven generative UI** — the LLM (Gemini 2.5 Flash) streams back not just text but live React components directly into the chat.
+
+You can scan the QR code above to fork this repo.
 
 ## How it works
 
@@ -47,4 +51,5 @@ Open [http://localhost:3000](http://localhost:3000) and ask about a stock ticker
 - **AI SDK v6** (`ai`, `@ai-sdk/react`, `@ai-sdk/google`)
 - **Zod** — tool input schema validation
 - **Lucide React** — icons
+- **TypeScript** — language
 - **Tailwind CSS v4** — styling
